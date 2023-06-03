@@ -1,6 +1,6 @@
 # Supply_Chain_Analysis
 # Description :-
-This is a SupplyChain SQL Project.
+'*'This is a SupplyChain SQL Project.
 Orderlist table has 9000 rows.
 In this case study, the company wanted to analysis its logistics & make informed business decisions
 Dataset is divided into 7 tables, one table for all orders that needs to be assigned a route – OrderList table, and 6 additional files specifying the problem and restrictions.
